@@ -1,5 +1,7 @@
 # Sourdough Bread
 
+![Baked Sourdough Boule](sourdough-bread.jpg)
+
 ### Ingredients
 
 #### Dry
