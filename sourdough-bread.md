@@ -1,6 +1,6 @@
 # Sourdough Bread
 
-![Baked Sourdough Boule](sourdough-bread.jpg?s=450)
+<img alt="Baked Sourdough Boule" src="sourdough-bread.jpg" width=450 height=450/>
 
 ### Ingredients
 
