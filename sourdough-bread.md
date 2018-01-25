@@ -28,6 +28,6 @@
 #### Baking the bread
 Welcome to tomorrow morning! Your dough should be much larger than it was last night.
 1. Pre-heat oven to 500° F.
-2. Line Dutch oven with parchment paper.
-3. Bake for 40 mins covered
+2. Line Dutch oven with parchment paper, put dough in there.
+3. Bake on middle shelf for 40 mins, with cover on.
 4. Uncover, remove parchment paper, and bake for 5 more minutes.
