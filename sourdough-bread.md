@@ -17,15 +17,15 @@
 
 #### Making the dough
 1. Mix together dry ingredients in large bowl.
-2. Stir together wet ingredients in smaller bowl until yeast is mostly dissolved.
+2. Warm up the water to ideally about 100-110° F. Ice-cold or boiling water will kill the yeast, so avoid those extremes.
+2. Stir together wet ingredients in smaller bowl until yeast is mostly dissolved, let sit for about five minutes.
 3. Pour wet ingredients into dry.
 4. Mix with a spoon until it turns into a ball of dough.
 
 #### Letting dough rise
-1. Clean and dry the smaller bowl, coat with a thin layer of canola oil to prevent dough from sticking.
-2. Put dough in smaller bowl, roll around to cover dough with oil.
-3. Cover dough with plastic wrap to prevent a crust from forming.
-4. Let rise overnight.
+1. Pour a bit of oil into the mixing bowl, roll the dough around in it. This should coat both the dough and the bowl with a thin layer of oil to help prevent dough from sticking.
+2. Cover dough with plastic wrap to prevent a crust from forming.
+3. Put dough into a closet to rise overnight.
 
 #### Baking the bread
 Welcome to tomorrow morning! Your dough should be much larger than it was last night.
